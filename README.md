@@ -8,4 +8,4 @@ by Gabriel Nkole
 ![Editor_Grass_FPS](https://github.com/gabriel-nkole/Shell-Texturing/assets/101514971/acb70833-ed72-4c62-bbde-f9db8b6c38cf)
 
 ## References
-How Are Games Rendering Fur? - https://www.youtube.com/watch?v=9dr-tRQzij4&t=688s
+How Are Games Rendering Fur? - https://www.youtube.com/watch?v=9dr-tRQzij4
