@@ -2,6 +2,7 @@
 by Gabriel Nkole
 
 ## Description
+Grass and Fur Rendering using Shell Texturing.
 
 ## Screenshots
 ![Screenshot_Grass](https://github.com/gabriel-nkole/Shell-Texturing/assets/101514971/017ff759-bed9-4dc6-8085-ea34e3c2c551)
